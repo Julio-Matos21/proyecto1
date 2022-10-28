@@ -1,0 +1,29 @@
+header{
+    background-color: #617cb2; 
+    color: white;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {background-color: whitesmoke;
+    width: 90%;
+    margin: 0 auto;
+}
+p{
+    color: #17202a;
+    text-align: justify;
+}
+h1 {
+    background-color:#32899e ;
+    text-align: center;
+}
+h2 {
+    background-color: #78e4ff;
+    text-align: center;
+}
+img{
+    width: 200px; 
+    height: 400px;
+    margin: auto;
+    display: block;
+}
